@@ -1,9 +1,10 @@
 # <p align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1200&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+Profile&background=000000" alt="Welcome to my Github Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1200&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+Profile;Building+Systems+That+Never+Fail&background=000000" alt="Typing Banner" />
 </p>
 
- Hi, I'm Sheetal Sinha  
+
+ ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sheetal Sinha  
 
 🎓 B.Tech in Computer Science Engineering @ Manipal Institute of Technology (2022–2026)  
 📍 Bengaluru, India  
