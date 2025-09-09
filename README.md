@@ -62,27 +62,51 @@
 
 ## 💼 Professional Experience
 
-#### Software Development Intern  
-**YugaYatra Retail OPC Pvt. Ltd.** • Jul 2025 – Present  
+### Data Associate L1
+**[Infotact Solutions](https://infotact.in/)** • Jul 2025 – Present  
 
-- 🌍 Built **DestitutesOfIndia** platform for social awareness.  
-- 🎓 Developing **12thFailJobs.com** for students/job seekers with limited academic backgrounds.  
-- 📱 Worked on **responsive apps**, **e-commerce workflows**, and **AI-driven prototyping**.  
+- Developed backend systems and automation tools using Python, integrating with databases, web frameworks, and third-party services.
+- Wrote clean, modular code for APIs, scripts, and data processing tasks using libraries like Flask, Django, Pandas, and NumPy.
+- Participated in code reviews, maintained documentation, and ensured software stability through testing and debugging.
+- Delivered projects on time by analyzing user requirements and building maintainable, high-performance solution
 
-#### Python Development Intern  
-**Infotact Solutions** • Jul 2025 – Sep 2025  
+**Tech Stack:** `Express.js` `MongoDB` `Node.js` `React.js` ` Next.js` `Web Design` `NoSQL` `RESTful WebServices`
 
-- 🤖 Developed **ML pipeline** for real-time *micro-climate mapping* using **CNNs & webcam data**.  
-- ⚡ Improved **accuracy by 20%** and **model speed by 15%**.  
+### Software Development Intern  
+**[YugaYatra Retail OPC Pvt. Ltd](https://yugayatraretail.com/)** • Jul 2025 – Sep 2025 
 
-#### Software Developer Intern  
-**InternPro** • Jun 2025 – Present  
+- Designed digital assets and user interfaces using Canva, contributing to project branding and visual consistency.
+- Worked on real-time client projects via Upwork, gaining experience in project delivery and client communication in a professional setting.
+- Contributed to live projects on platforms like Amazon and Flipkart, learning the technical and business workflows of e-commerce operations.
 
-- 🏠 Built a **MERN-stack real estate platform** with secure **JWT authentication** and **Google Maps API integration**.  
+**Tech Stack:** `Express.js` `MongoDB` `Node.js` `React.js` ` Next.js` `Web Design` `NoSQL` `RESTful WebServices`
 
-#### Android Development Intern  
-**Code Clause** • Jun 2024 – Jul 2024  
-- 🎵 Created a hybrid **Music Player App** with online/offline playback and **custom playlist design**.  
+
+### Web Development Intern
+
+**[Unified Mentor Private Limited](https://www.unifiedmentor.com/)** • Jul 2025 – Aug 2025
+- Developed and maintained full-stack web applications using modern front-end and back-end technologies.
+- Identified and resolved bugs to ensure optimal functionality and performance of web applications.
+- Collaborated with cross-functional teams to implement user-centric features and enhancements.
+- Integrated client-side interfaces with server-side APIs for seamless and responsive user experiences.
+
+**Tech Stack:** `Express.js` `MongoDB` `Node.js` `React.js` ` Next.js` `Web Design` `NoSQL` `RESTful WebServices`
+
+### Software Developer Intern  
+**[InternPro](https://www.internpro.tech/)** • Jun 2025 – Jul 2025
+- Developed a Real Estate Property Management Web Application using MERN, enabling users to list, view, and manage property listings efficiently on a centralized platform.
+- Designed intuitive UI/UX interfaces using React.js with responsive design principles, ensuring seamless navigation and user engagement across both desktop and mobile devices. Integrated visual cues and smart layouts to enhance the user journey.
+- Implemented backend functionality using Node.js and Express.js, creating secure RESTful APIs for managing property data, user accounts, and admin controls. Used MongoDB as the NoSQL database to store structured property information with efficient querying and filtering capabilities.
+
+**Tech Stack:** `Express.js` `MongoDB` `Node.js` `React.js` ` Next.js` `Web Design` `NoSQL` `RESTful WebServices`
+ 
+### Android Development Intern  
+ **[CodeClause](https://codeclause.com/)** • May 2024 – Jun 2024  
+- Built a Music Player Android app in Java using Android Studio, enabling users to play, pause, and navigate songs from local storage.
+- Integrated MediaPlayer API, ContentResolver, and RecyclerView to fetch and display audio files in a dynamic playlist.
+- Designed a clean and responsive UI with custom layouts and ListView adapters, enhancing overall user experience.
+
+**Tech Stack:** `Java` `Debugging` `Android Studio` 
 
 ---
 
