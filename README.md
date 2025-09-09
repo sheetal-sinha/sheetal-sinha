@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1200&color=00FF00&center=true&vCenter=true&width=900&lines=Hi+I'm+Sheetal+Sinha;Welcome+to+my+Github+Profile;Building+Systems+That+Never+Fail&background=000000" alt="Typing Banner" />
 
-💻 **Final Year Computer Science & Engineering Student @ Manipal Institute of Technology**  
-🤖 **Pursuing Minor Specialization in Computational Intelligence**  
-🚀 **Passionate about Artificial Intelligence & Machine Learning**  
-
 
 
 ## 🛠️ Skills & Technologies
