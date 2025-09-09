@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1200&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+Profile;Building+Systems+That+Never+Fail&background=000000" alt="Typing Banner" />
 </p>
+  <img src="https://github.com/user-attachments/assets/f4b2843e-c7f8-4820-88bd-398250e21edb" alt="banner" />
 
 
  ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sheetal Sinha  
