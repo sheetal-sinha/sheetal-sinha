@@ -5,9 +5,6 @@
   <img src="https://github.com/user-attachments/assets/f4b2843e-c7f8-4820-88bd-398250e21edb" alt="banner" />
 
 
-
-
-
  ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sheetal Sinha  
 
 🎓 **Final Year Computer Science & Engineering Student @ Manipal Institute of Technology**  
@@ -58,8 +55,6 @@
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 
----
-
 ## 💼 Professional Experience
 
 ### Data Associate L1
@@ -108,7 +103,6 @@
 
 **Tech Stack:** `Java` `Debugging` `Android Studio` 
 
----
 
 ## 🔬 Projects  
 
@@ -158,14 +152,63 @@ Flutter app for table reservation database management
 
 **Tech Stack:** `Flutter` `Dart` `JSON` `Google Firebase` `Firestone` `RestAPI`  
 
+## 🎓 Education 
+<img src="https://github.com/user-attachments/assets/4e61b482-4888-4749-9670-f0cebd7b372f" alt="Manipal University Logo" width="150" align="right"/>
 
----
+- Bachelor of Technology, Computer Science and Engineering 
+- Minor Specialization in Computational Intelligence
+
+**Manipal Institute of Technology**  • 2022 – 2026
+- **Relevant Coursework:**
+  - Data Structures & Algorithms
+  - Object Oriented Programming
+  - Operating Systems 
+  - Computer Networks
+  - Soft Computing Paradigms
+  - Artificial Intelligence 
+  - Machine Learning
+  - Computer Vision
+  - Parallel Computing
+  - Blockchain Technology
+  
+## 📝 Publications
+- **Pollution Predictor** : A machine Learning Model For Forecasting Air Quality (Minor Project Publication )
+- **Medisure Type 2 Diabetes Predictor** (Undergoing)
+
+## 💡 Patents
+- IN23/2404 **Application No. 202441091887** Device and method for monitoring blood parameters of a user (Early Publication available)
+
+## 📈 GitHub Stats & Activity  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sheetal-sinha&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheetal-sinha&layout=compact&theme=radical" />
+</p>
+
+### 📊 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheetal-sinha&theme=react-dark" />
+</p>
+
+### 🔥 GitHub Streaks  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheetal-sinha&theme=radical" />
+
+### 🏆 GitHub Achievements  
+<a href="https://github.com/rutvikbarbhai?tab=achievements" title="YOLO">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO">
+</a>
+
+
 
 ## 🏆 Achievements  
 
-- 🎯 93 percentile – JEE Mains  
-- 🎯 5240 Rank – All India Manipal Entrance Exam (MU-OET)  
-- 🎯 NTSE Stage 1 Qualified  
+**<img src="https://github.com/user-attachments/assets/d3a7713c-0fa3-4fba-a8b3-1cb60e4dafce"  height="20px" style="position: bottom;">  93 %tile – JEE Mains**
+
+**<img src="https://github.com/user-attachments/assets/d3a7713c-0fa3-4fba-a8b3-1cb60e4dafce"  height="20px" style="position: bottom;">  5240 Rank – All India Manipal Entrance Exam (MU-OET)**
+
+**<img src="https://github.com/user-attachments/assets/d3a7713c-0fa3-4fba-a8b3-1cb60e4dafce"  height="20px" style="position: bottom;">  NTSE Stage 1 Qualified**
+
 
 ---
 
@@ -179,12 +222,5 @@ Flutter app for table reservation database management
 
 ---
 
-## 📫 Connect With Me  
 
-📧 Email: sheetal.mitblr2022@learner.manipal.edu  
-💼 [LinkedIn](https://www.linkedin.com/in/sheetal-sinha-472a8a252/)  
-🌐 [GitHub](https://github.com/sheetaal)  
 
----
-
-⭐ If you like my projects, don’t forget to **star** the repositories!  
