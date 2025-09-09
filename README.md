@@ -5,10 +5,10 @@
   <img src="https://github.com/user-attachments/assets/f4b2843e-c7f8-4820-88bd-398250e21edb" alt="banner" />
 
 
-
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hi, I'm Sheetal Sinha  
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&pause=1200&color=00FF00&center=true&vCenter=true&width=1100&lines=Hi%2C+I'm+Sheetal+Sinha;Final+Year+Computer+Science+%26+Engineering+Student+@+MIT;Pursuing+Minor+in+Computational+Intelligence;Passionate+about+Artificial+Intelligence+%26+Machine+Learning&background=000000" alt="Typing Banner" />
+# **<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sheetal Sinha**  
+💻 **Final Year Computer Science & Engineering Student @ Manipal Institute of Technology**  
+🤖 **Pursuing Minor Specialization in Computational Intelligence**  
+🚀 **Passionate about Artificial Intelligence & Machine Learning**  
 
 
 
