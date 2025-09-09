@@ -58,6 +58,9 @@
 
 ## 💼 Professional Experience
 
+### AI Intern 
+**[Wire Cloud Metrics](https://www.wiremetrics.in/)** • Sep 2025 – Present  
+
 ### Data Associate L1
 **[Infotact Solutions](https://infotact.in/)** • Jul 2025 – Present  
 
